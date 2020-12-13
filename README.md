@@ -9,4 +9,4 @@ Run ANN_main.py to start this program.
 
 Make sure you have numpy and cv2 installed.
 
-The demo video link: 
+The demo video link: [video](https://www.youtube.com/watch?v=aKOpndGO5EE)
